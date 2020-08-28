@@ -17,7 +17,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "CI= react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -48,5 +48,5 @@
   "bugs": {
     "url": "https://github.com/ranamahmud/online-class-react/issues"
   },
-  "homepage": "."
+  "homepage": "https://github.com/ranamahmud/online-class-react#readme"
 }
